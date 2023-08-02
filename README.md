@@ -46,7 +46,7 @@ python detection_and_tracking.py
 This project allows to extract the 2D and 3D coordinates of the numbered markers in the video. Its implementation is specific to the problem, requiring a complete re-design for videos with different perspectives and/or different kinds of markers.
 
 ```bash
-git clone https://github.com/jgurakuqi/marker_detection_and_tracking
+git clone https://github.com/jgurakuqi/marker-detection-and-tracking
 ```
 
 ## License
