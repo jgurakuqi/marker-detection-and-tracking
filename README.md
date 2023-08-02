@@ -12,7 +12,7 @@
 
 ## Requirements
 
-The goal is to detect the circular marker placed on the rotating turntable, using the dataset downloadable at this URL: https://www.dais.unive.it/~bergamasco/teachingfiles/G3DCV2022/data.7z
+The goal is to detect the circular marker placed on the rotating turntable, using the given dataset of videos.
 Your task is to create a Python program (or notebook) that:
 - opens one of the video files cited above
 - detects the marker in the turntable, by identifying all the visible marks to create a list of coordinates of each point in the image and in the marker reference system (more details follows)
