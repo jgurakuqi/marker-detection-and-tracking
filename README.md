@@ -1,4 +1,4 @@
-# marker_detection_and_tracking
+# marker-detection-and-tracking
 
 
 ## Table of Contents
